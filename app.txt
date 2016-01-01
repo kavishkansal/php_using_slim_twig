@@ -1,0 +1,6 @@
+[2016-01-01 07:29:57] name.WARNING: foo [] []
+[2016-01-01 13:08:31] name.WARNING: foo [] []
+[2016-01-01 13:08:49] name.WARNING: foo [] []
+[2016-01-01 13:10:31] name.WARNING: Run Index.php [] []
+[2016-01-01 14:34:26] name.WARNING: Run New Monolog.php [] []
+[2016-01-01 14:34:43] name.WARNING: Run New Monolog.php [] []
